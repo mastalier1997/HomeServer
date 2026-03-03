@@ -1,10 +1,10 @@
 ### 📊 Live Server Status
-Last update: `2026-03-01 12:00:01`
+Last update: `2026-03-03 12:00:02`
 
 | Metric | Value |
 | :--- | :--- |
 | **Status** | 🟢 Online |
-| **CPU Load** | 29.4% |
-| **RAM Usage** | 3.3Gi / 7.6Gi |
+| **CPU Load** | 3.8% |
+| **RAM Usage** | 2.7Gi / 7.6Gi |
 | **Disk Usage** | 22G / 460G |
-| **Uptime** | up 1 week, 20 hours, 39 minutes |
+| **Uptime** | up 21 hours, 58 minutes |
